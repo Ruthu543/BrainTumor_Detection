@@ -6,7 +6,7 @@ An end-to-end **Deep Learning and Computer Vision application** that classifies 
 
 The trained model is integrated with a **Streamlit web application**, allowing users to upload an MRI image and receive a model-generated prediction through an interactive interface.
 
-> ⚠️ **Medical Disclaimer:** This project is intended strictly for educational and research purposes. It is **not a clinically validated diagnostic system** and should not be used as a substitute for professional medical advice, diagnosis, or treatment.
+
 
 ---
 

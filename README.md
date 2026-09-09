@@ -66,7 +66,7 @@ MRI Upload → Prediction → Result
 * Implement Transfer Learning using **VGG19**
 * Experiment with CNN fine-tuning
 * Evaluate the model using classification metrics
-* Save trained models in `.h5` format
+* Save trained models in ".h5" format
 * Build an interactive Streamlit application
 * Enable users to upload MRI images for prediction
 * Manage large model files using Git LFS
